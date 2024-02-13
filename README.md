@@ -23,21 +23,13 @@ Users should be able to:
 - Media queries on react
 - Creation of accordion with css and js
 - [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
 - [Styled Components](https://styled-components.com/) - For styles
 
 ## Author
 
-- Github - [Vinicius](https://www.github.com/ViniciusFMarques)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ViniciusFMarques)
-
-
-
-
-
-
-
-
+- Github - (https://www.github.com/ViniciusFMarques)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/ViniciusFMarques)
+- Live Site URL: (https://viniciusfmarques.github.io/FAQaccordion/)
 
 # Getting Started with Create React App
 
